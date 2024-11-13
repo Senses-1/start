@@ -1,4 +1,1 @@
-u = 1
-print(u)
-
-JOPAJORIK
+test
